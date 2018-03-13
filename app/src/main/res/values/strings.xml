@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sklep</string>
+
+    <string-array name="MetodaPlatnosci">
+        <item>Przelew</item>
+        <item>Płatność przy odbiorze</item>
+    </string-array>
+
+</resources>
